@@ -1,0 +1,1 @@
+{"colet":"aljdfghflk","Greutate":"90","AWB":"EbmHqe","expeditor":{"Nume":"LAHSDIQDBJO","Adresa":"Bucuresti","Telefon":"243-098"},"destinatar":{"Nume":"ADSPJPO","Adresa":"Iasi","Telefon":"lknjlk"},"tip":"FRAGIL"}

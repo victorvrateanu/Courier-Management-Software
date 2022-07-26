@@ -1,0 +1,4 @@
+{"AWB":"qk7b0Q","ruta":"Arad Sibiu Brasov Iasi","pret":"35","timp":"13.0","status":"IN_TRANZIT_DIRECT"}
+{"AWB":"2SmN8P","ruta":"Arad Sibiu Brasov Bucuresti","pret":"35","timp":"12.0","status":"IN_TRANZIT_DIRECT"}
+{"AWB":"tat4Wl","ruta":"Arad Cluj Suceava","pret":"35","timp":"13.0","status":"IN_TRANZIT_DIRECT"}
+{"AWB":"EbmHqe","ruta":"Bucuresti Brasov Iasi","pret":"30","timp":"9.0","status":"IN_TRANZIT_DIRECT"}

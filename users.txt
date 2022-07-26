@@ -1,0 +1,10 @@
+Timisoara;timis
+Arad;arad
+Iasi;iasi
+Bucuresti;bucuresti
+Costanta;costanta
+Craiova;craiova
+Cluj;cluj
+Sibiu;sibiu
+Suceava;suceava
+Brasov;brasov
